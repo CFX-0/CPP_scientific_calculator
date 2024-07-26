@@ -1,4 +1,13 @@
+Note: download in release
+
+Changelog 1.2.1:
+
+Ui rework:
+
+  • Cleaner Ui
+
 Changelog 1.2:
+
 More function like:
 
   • Power
@@ -6,6 +15,7 @@ More function like:
   • Factorial
 
 Changelog 1.0/1.1:
+
 Just a basic terminal calculator with:
 
   • Basic func
