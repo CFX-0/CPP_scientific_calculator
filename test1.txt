@@ -1,0 +1,10 @@
+----------&----------
++ [Addition]
+- [Subtraction]
+x [Multiplication]
+/ [Division]
+c [Cubic root]
+s [Square root]
+^ [Power]
+! [Factorial]
+----------&----------
