@@ -1,3 +1,11 @@
+Changelog 1.2:
+More function like:
+
+  • Power
+
+  • Factorial
+
+Changelog 1.0/1.1:
 Just a basic terminal calculator with:
 
   • Basic func
