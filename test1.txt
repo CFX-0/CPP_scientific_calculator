@@ -1,10 +1,10 @@
 --------------------&-------------------
-+ [Addition]	 	| C [cos]
-- [Subtraction]	 	| A [sin]
++ [Addition]        | C [cos]
+- [Subtraction]     | A [sin]
 x [Multiplication]  | T [tan]
-/ [Division]		| t [cosh]
-c [Cubic root]	 	| e [sinh]
-s [Square root]	 	| r [tanh]
-^ [Power]		 	| ? [Remainder a÷b c÷d]
-! [Factorial]		| = [Cancel]
+/ [Division]        | t [cosh]
+c [Cubic root]      | e [sinh]
+s [Square root]     | r [tanh]
+^ [Power]           | ? [Remainder a÷b c÷d]
+! [Factorial]       | = [Cancel]
 --------------------&-------------------
