@@ -1,5 +1,16 @@
 Note: download in release
 
+Changelog 1.3:
+
+	• Added 7 more function:
+     + sin / sinh
+     + cos / cosh
+     + tan / tanh
+     + reminder
+
+	• Fraction converting is now available for every function (since the old versions doesn't have)
+ 
+
 Changelog 1.2.1:
 
 Ui rework:
@@ -28,6 +39,6 @@ Just a basic terminal calculator with:
   
   • Fraction 
   
-Ik ive just learn the basic of c++ so theres alot of room for improvements so if anyone come across this and can help me, that would really made my day, thank you.
+Ik ive just learn the basics of c++ so theres alot of room for improvements so if anyone come across this and can help me, that would really made my day, thank you.
 
 liquidfy_ 
