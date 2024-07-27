@@ -38,7 +38,7 @@ int main() {
   char roundstat;
   // user input
   cout << "----------------------!CALCULATOR!----------------------" << endl;
-  cout << "Please enter the amount of variables you would like to use (2-4): ";
+  cout << "Please enter the amount of variables you would like to use (1-4): ";
   cin >> x;
   ifstream inputFile("test1.txt");
   cout << "Please enter the operation you want to perform from the list "
