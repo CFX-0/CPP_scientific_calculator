@@ -445,7 +445,7 @@ int main() {
     cout << "Show info? (y/n): ";
     cin >> credits;
     if (credits == 'y') {
-      cout << "-CALCULATOR-© v1.2.1 by liquidfy_" << endl;
+      cout << "-CALCULATOR-© v1.3 by liquidfy_" << endl;
     } else {
     }
     cout << "\n[Program Ended]" << endl;
